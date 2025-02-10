@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Achievements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<achievements>
+		<AchievementData>
+			<number>0</number>
+			<bossType>Set</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>도전자</name>
+			<description>최초 처치</description>
+			<requiredKills>1</requiredKills>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>1</number>
+			<bossType>Set</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>전문가</name>
+			<description>5번 처치</description>
+			<requiredKills>5</requiredKills>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>2</number>
+			<bossType>Set</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>고인물</name>
+			<description>10번 처치</description>
+			<requiredKills>10</requiredKills>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>3</number>
+			<bossType>Set</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>도전자</name>
+			<description>체력 50%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>50</requiredHealth>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>4</number>
+			<bossType>Set</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>전문가</name>
+			<description>체력 75%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>75</requiredHealth>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>5</number>
+			<bossType>Set</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>고인물</name>
+			<description>체력 100%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>100</requiredHealth>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>6</number>
+			<bossType>Set</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>도전자</name>
+			<description>4분내에 클리어</description>
+			<requiredTime>240</requiredTime>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>7</number>
+			<bossType>Set</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>전문가</name>
+			<description>2분 30초내에 클리어</description>
+			<requiredTime>150</requiredTime>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>8</number>
+			<bossType>Set</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>고인물</name>
+			<description>1분 30초내에 클리어</description>
+			<requiredTime>90</requiredTime>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>9</number>
+			<bossType>Vampire</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>도전자</name>
+			<description>최초 처치</description>
+			<requiredKills>1</requiredKills>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>10</number>
+			<bossType>Vampire</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>전문가</name>
+			<description>5번 처치</description>
+			<requiredKills>5</requiredKills>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>11</number>
+			<bossType>Vampire</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>고인물</name>
+			<description>10번 처치</description>
+			<requiredKills>10</requiredKills>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>12</number>
+			<bossType>Vampire</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>도전자</name>
+			<description>체력 50%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>50</requiredHealth>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>13</number>
+			<bossType>Vampire</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>전문가</name>
+			<description>체력 75%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>75</requiredHealth>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>14</number>
+			<bossType>Vampire</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>고인물</name>
+			<description>체력 100%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>100</requiredHealth>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>15</number>
+			<bossType>Vampire</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>도전자</name>
+			<description>4분내에 클리어</description>
+			<requiredTime>240</requiredTime>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>16</number>
+			<bossType>Vampire</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>전문가</name>
+			<description>2분 30초내에 클리어</description>
+			<requiredTime>150</requiredTime>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>17</number>
+			<bossType>Vampire</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>고인물</name>
+			<description>1분 30초내에 클리어</description>
+			<requiredTime>90</requiredTime>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>18</number>
+			<bossType>Alien</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>도전자</name>
+			<description>최초 처치</description>
+			<requiredKills>1</requiredKills>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>19</number>
+			<bossType>Alien</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>전문가</name>
+			<description>5번 처치</description>
+			<requiredKills>5</requiredKills>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>20</number>
+			<bossType>Alien</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>고인물</name>
+			<description>10번 처치</description>
+			<requiredKills>10</requiredKills>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>21</number>
+			<bossType>Alien</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>도전자</name>
+			<description>체력 50%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>50</requiredHealth>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>22</number>
+			<bossType>Alien</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>전문가</name>
+			<description>체력 75%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>75</requiredHealth>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>23</number>
+			<bossType>Alien</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>고인물</name>
+			<description>체력 100%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>100</requiredHealth>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>24</number>
+			<bossType>Alien</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>도전자</name>
+			<description>4분내에 클리어</description>
+			<requiredTime>240</requiredTime>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>25</number>
+			<bossType>Alien</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>전문가</name>
+			<description>2분 30초내에 클리어</description>
+			<requiredTime>150</requiredTime>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>26</number>
+			<bossType>Alien</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>고인물</name>
+			<description>1분 30초내에 클리어</description>
+			<requiredTime>90</requiredTime>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>27</number>
+			<bossType>Demon</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>도전자</name>
+			<description>최초 처치</description>
+			<requiredKills>1</requiredKills>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>28</number>
+			<bossType>Demon</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>전문가</name>
+			<description>5번 처치</description>
+			<requiredKills>5</requiredKills>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>29</number>
+			<bossType>Demon</bossType>
+			<achievementType>KillCount</achievementType>
+			<name>고인물</name>
+			<description>10번 처치</description>
+			<requiredKills>10</requiredKills>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>30</number>
+			<bossType>Demon</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>도전자</name>
+			<description>체력 50%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>50</requiredHealth>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>31</number>
+			<bossType>Demon</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>전문가</name>
+			<description>체력 75%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>75</requiredHealth>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>32</number>
+			<bossType>Demon</bossType>
+			<achievementType>HealthBased</achievementType>
+			<name>고인물</name>
+			<description>체력 100%미만으로 떨어지지 않고 클리어!</description>
+			<requiredHealth>100</requiredHealth>
+			<next>-1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>33</number>
+			<bossType>Demon</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>도전자</name>
+			<description>4분내에 클리어</description>
+			<requiredTime>240</requiredTime>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>34</number>
+			<bossType>Demon</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>전문가</name>
+			<description>2분 30초내에 클리어</description>
+			<requiredTime>150</requiredTime>
+			<next>1</next>
+		</AchievementData>
+		<AchievementData>
+			<number>35</number>
+			<bossType>Demon</bossType>
+			<achievementType>TimeBased</achievementType>
+			<name>고인물</name>
+			<description>1분 30초내에 클리어</description>
+			<requiredTime>90</requiredTime>
+			<next>-1</next>
+		</AchievementData>
+	</achievements>
+</Achievements>

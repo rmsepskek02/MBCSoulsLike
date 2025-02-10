@@ -1,0 +1,2347 @@
+fileFormatVersion: 2
+guid: 119b225c806aecc4e9570bf5fd679b2d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: TestModel(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group1
+      parentName: TestModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body116
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body115
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body114
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body113
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body112
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body117
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body118
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body119
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body121
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body125
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body123
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body120
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body122
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body126
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body124
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body111
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body110
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body109
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body108
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body107
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body106
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body105
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body104
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body103
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body102
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body101
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body100
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body99
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body98
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body97
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body96
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body95
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body94
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body93
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body92
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body91
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body90
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body89
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body88
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body87
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body86
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body85
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body84
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body83
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body82
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body81
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body80
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body79
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body69
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body68
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body67
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body66
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body65
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body64
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body63
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body62
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body78
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body77
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body76
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body75
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body74
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body73
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body72
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body71
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body70
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body53
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body52
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body51
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body50
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body49
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body48
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body47
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body46
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body61
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body60
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body59
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body58
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body57
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body56
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body55
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body54
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body45
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body44
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body43
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body42
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body41
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body40
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body39
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body38
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body37
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body36
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body35
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body34
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body33
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body32
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body31
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body30
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body29
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body28
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body27
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body26
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body25
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body24
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body23
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body22
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body21
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body12
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body11
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body10
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body9
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body8
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body7
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body6
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon1
+      parentName: group1
+      position: {x: 1.3248612, y: -0.13136122, z: 0.12651527}
+      rotation: {x: 0.14809808, y: 0.7371797, z: 0.026065206, w: 0.6587516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body5
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body20
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body19
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body18
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body17
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body16
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body15
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body14
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body13
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body4
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body3
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body2
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body1
+      parentName: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Reference
+      parentName: TestModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Hips
+      parentName: Necromancer_Reference
+      position: {x: 1.7856293e-17, y: 1, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftUpLeg
+      parentName: Necromancer_Hips
+      position: {x: -0.1046704, y: -0.07178451, z: -0.008633084}
+      rotation: {x: 0.0000013906975, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftLeg
+      parentName: Necromancer_LeftUpLeg
+      position: {x: -0.028711176, y: -0.36575022, z: 0.002991037}
+      rotation: {x: -0.0000022646932, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftFoot
+      parentName: Necromancer_LeftLeg
+      position: {x: -0.052838553, y: -0.46805656, z: -0.060080256}
+      rotation: {x: 0.0000008739957, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftToeBase
+      parentName: Necromancer_LeftFoot
+      position: {x: -0.05959671, y: -0.10020298, z: 0.18255158}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightUpLeg
+      parentName: Necromancer_Hips
+      position: {x: 0.1046704, y: -0.07178451, z: -0.008633084}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightLeg
+      parentName: Necromancer_RightUpLeg
+      position: {x: 0.028711213, y: -0.36575022, z: 0.0029894614}
+      rotation: {x: -0.00000071266805, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightFoot
+      parentName: Necromancer_RightLeg
+      position: {x: 0.05283859, y: -0.4680566, z: -0.06008027}
+      rotation: {x: 0.00000071266805, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightToeBase
+      parentName: Necromancer_RightFoot
+      position: {x: 0.05959671, y: -0.10020298, z: 0.18255158}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Spine
+      parentName: Necromancer_Hips
+      position: {x: 1.5543122e-17, y: 0.07, z: 3.1086245e-17}
+      rotation: {x: -0.7071068, y: 0.7071068, z: -8.659561e-17, w: -8.7157646e-33}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Necromancer_chain_right_long_1
+      parentName: Necromancer_Spine
+      position: {x: 0.04985367, y: -0.07196379, z: -0.11521648}
+      rotation: {x: 0.089545816, y: 0.98777914, z: -0.09460767, w: -0.08557679}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_2
+      parentName: Necromancer_chain_right_long_1
+      position: {x: -0.09801205, y: -1.0658141e-16, z: 3.5527136e-17}
+      rotation: {x: -0.003086055, y: -0.0062793447, z: 0.32444763, w: 0.9458778}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_3
+      parentName: Necromancer_chain_right_long_2
+      position: {x: -0.0548022, y: -4.2632563e-16, z: 3.5527136e-17}
+      rotation: {x: -0.12731151, y: -0.105306566, z: 0.09077099, w: 0.98207074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_4
+      parentName: Necromancer_chain_right_long_3
+      position: {x: -0.041209653, y: 4.2632563e-16, z: 3.5527136e-17}
+      rotation: {x: -0.07783118, y: -0.086556174, z: -0.23555644, w: 0.9648645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_5
+      parentName: Necromancer_chain_right_long_4
+      position: {x: -0.0899804, y: -2.842171e-16, z: -1.0658141e-16}
+      rotation: {x: 0.008273117, y: 0.018379144, z: -0.070649095, w: 0.9972976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_6
+      parentName: Necromancer_chain_right_long_5
+      position: {x: -0.04885173, y: 1.4210854e-16, z: -1.4210854e-16}
+      rotation: {x: 0.033138327, y: 0.07699583, z: 0.054415442, w: 0.99499375}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_7
+      parentName: Necromancer_chain_right_long_6
+      position: {x: -0.060659602, y: -7.105427e-17, z: 1.4210854e-16}
+      rotation: {x: 0.06973208, y: 0.14357613, z: -0.008773706, w: 0.98714054}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_8
+      parentName: Necromancer_chain_right_long_7
+      position: {x: -0.067214005, y: -7.105427e-17, z: 0}
+      rotation: {x: 0.053683855, y: 0.12810914, z: -0.046003815, w: 0.98923695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_9
+      parentName: Necromancer_chain_right_long_8
+      position: {x: -0.046389844, y: 0, z: 0}
+      rotation: {x: 0.017038468, y: 0.056888785, z: -0.05943816, w: 0.996464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_10
+      parentName: Necromancer_chain_right_long_9
+      position: {x: -0.04715081, y: 2.1316282e-16, z: -1.4210854e-16}
+      rotation: {x: -0.0077219657, y: -0.035461273, z: -0.015809713, w: 0.9992162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_11
+      parentName: Necromancer_chain_right_long_10
+      position: {x: -0.04925468, y: -7.105427e-17, z: 0}
+      rotation: {x: -0.013543397, y: -0.07176522, z: -0.012275417, w: 0.9972541}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_12
+      parentName: Necromancer_chain_right_long_11
+      position: {x: -0.054396093, y: 0, z: 1.4210854e-16}
+      rotation: {x: -0.0035710323, y: -0.020419117, z: 0.00042200004, w: 0.99978507}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_13
+      parentName: Necromancer_chain_right_long_12
+      position: {x: -0.05197767, y: -3.5527135e-16, z: -1.7763567e-16}
+      rotation: {x: -0.01717891, y: -0.1023459, z: -0.008587263, w: 0.99456346}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_14
+      parentName: Necromancer_chain_right_long_13
+      position: {x: -0.08654466, y: 2.842171e-16, z: -5.3290704e-17}
+      rotation: {x: 0.011867043, y: 0.06911548, z: 0.011280173, w: 0.9974743}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_15
+      parentName: Necromancer_chain_right_long_14
+      position: {x: -0.09965494, y: -7.105427e-17, z: 1.4210854e-16}
+      rotation: {x: -0.011542144, y: -0.066876255, z: -0.008783932, w: 0.99765587}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_16
+      parentName: Necromancer_chain_right_long_15
+      position: {x: -0.095571175, y: -2.1316282e-16, z: -1.4210854e-16}
+      rotation: {x: -0.02515875, y: -0.28604865, z: -0.071538866, w: 0.9552097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_17
+      parentName: Necromancer_chain_right_long_16
+      position: {x: -0.09970481, y: 0, z: 2.8865798e-17}
+      rotation: {x: -0.007857688, y: -0.2230098, z: 0.021981753, w: 0.97453666}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_18
+      parentName: Necromancer_chain_right_long_17
+      position: {x: -0.0950315, y: 7.105427e-17, z: 4.440892e-18}
+      rotation: {x: -0.027994027, y: -0.15943004, z: 0.11454666, w: 0.9801416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_19
+      parentName: Necromancer_chain_right_long_18
+      position: {x: -0.093265444, y: 3.5527135e-16, z: 0}
+      rotation: {x: -0.033189014, y: -0.084632516, z: 0.083603956, w: 0.99234384}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_20
+      parentName: Necromancer_chain_right_long_19
+      position: {x: -0.095926836, y: 1.0658141e-16, z: -6.661338e-18}
+      rotation: {x: 0.0054571945, y: 0.010763084, z: 0.0031298609, w: 0.9999223}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_21
+      parentName: Necromancer_chain_right_long_20
+      position: {x: -0.10128212, y: -3.1974422e-16, z: 3.241851e-16}
+      rotation: {x: -0.0072848727, y: -0.015404438, z: -0.019650143, w: 0.99966174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_long_22
+      parentName: Necromancer_chain_right_long_21
+      position: {x: -0.021742782, y: -0.102226645, z: -0.050085656}
+      rotation: {x: 4.87891e-19, y: -2.439455e-19, z: 3.469447e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_1
+      parentName: Necromancer_Spine
+      position: {x: 0.062119998, y: -0.16733, z: 0.0152538}
+      rotation: {x: 0.048426405, y: -0.8288045, z: -0.032515265, w: 0.55648977}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_2
+      parentName: Necromancer_chain_right_1
+      position: {x: -0.06500897, y: 1.0658141e-16, z: 0}
+      rotation: {x: 0.11237992, y: -0.021270774, z: 0.07539269, w: 0.9905727}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_3
+      parentName: Necromancer_chain_right_2
+      position: {x: -0.077510945, y: -3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: 0.045829892, y: -0.23049954, z: -0.4524976, w: 0.86024153}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_4
+      parentName: Necromancer_chain_right_3
+      position: {x: -0.061857704, y: -2.1316282e-16, z: -1.4210854e-16}
+      rotation: {x: -0.113108866, y: 0.058900084, z: -0.3426151, w: 0.93078035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_5
+      parentName: Necromancer_chain_right_4
+      position: {x: -0.05532125, y: 7.105427e-16, z: -4.2632563e-16}
+      rotation: {x: 0.7966505, y: -0.5694502, z: -0.02594447, w: 0.20100074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_6
+      parentName: Necromancer_chain_right_5
+      position: {x: -0.033470165, y: 3.907985e-16, z: 0}
+      rotation: {x: 0.097316995, y: -0.19843699, z: 0.6097487, w: 0.76115614}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_right_7
+      parentName: Necromancer_chain_right_6
+      position: {x: -0.026735162, y: -3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: 2.7755576e-17, y: 4.8572257e-17, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Spine1
+      parentName: Necromancer_Spine
+      position: {x: -0.148151, y: 0, z: -1.3158453e-16}
+      rotation: {x: -0.7071068, y: 0.7071068, z: -8.659561e-17, w: -8.7157646e-33}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Spine2
+      parentName: Necromancer_Spine1
+      position: {x: 3.2896133e-17, y: 0.14815101, z: 2.1552006e-16}
+      rotation: {x: 0, y: -0, z: -0.301575, w: 0.95344245}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Necromancer_LeftShoulder
+      parentName: Necromancer_Spine2
+      position: {x: -0.11453469, y: 0.04121489, z: 6.396656e-16}
+      rotation: {x: -0.6737291, y: 0.3525633, z: 0.094154045, w: 0.642591}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftArm
+      parentName: Necromancer_LeftShoulder
+      position: {x: -0.01985185, y: 0.070036344, z: -0.07372595}
+      rotation: {x: 0.1265868, y: 0.0058982074, z: 0.057123065, w: 0.9902919}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Necromancer_LeftForeArm
+      parentName: Necromancer_LeftArm
+      position: {x: -0.0946868, y: 0.06828301, z: -0.27422544}
+      rotation: {x: 0.455409, y: -0.3366526, z: -0.06331768, w: 0.82174116}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Necromancer_LeftHand
+      parentName: Necromancer_LeftForeArm
+      position: {x: -0.18732217, y: -0.114966035, z: -0.055150256}
+      rotation: {x: 0.040046047, y: 0.0073225764, z: 0.29400358, w: 0.954937}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Necromancer_LeftHandThumb1
+      parentName: Necromancer_LeftHand
+      position: {x: -0.046153102, y: -0.008443039, z: 0.037170146}
+      rotation: {x: -0.12997654, y: -0.49497315, z: -0.32912597, w: 0.7935892}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftHandThumb2
+      parentName: Necromancer_LeftHandThumb1
+      position: {x: 0.02433416, y: -0.049053364, z: 0.050534263}
+      rotation: {x: -0.2356897, y: -0.009597297, z: 0.012293985, w: 0.97170323}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Necromancer_LeftHandThumb3
+      parentName: Necromancer_LeftHandThumb2
+      position: {x: 0.020329587, y: -0.067687444, z: 0.01891463}
+      rotation: {x: -0.00044910592, y: 0.24024506, z: 0.0660549, w: 0.9684621}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Necromancer_LeftHandThumb4
+      parentName: Necromancer_LeftHandThumb3
+      position: {x: -0.0020203083, y: -0.044355042, z: 0.012179798}
+      rotation: {x: -0.004095428, y: 0.04397949, z: 0.0281335, w: 0.99862784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftHandIndex1
+      parentName: Necromancer_LeftHand
+      position: {x: -0.17292039, y: -0.004753643, z: -0.0017019496}
+      rotation: {x: 0.049792755, y: -0.62757015, z: -0.47520941, w: 0.6146969}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Necromancer_LeftHandIndex2
+      parentName: Necromancer_LeftHandIndex1
+      position: {x: 0.016614584, y: -0.0350183, z: 0.03066918}
+      rotation: {x: -0.030607123, y: 0.31462866, z: 0.077857494, w: 0.9455212}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Necromancer_LeftHandIndex3
+      parentName: Necromancer_LeftHandIndex2
+      position: {x: -0.003982678, y: -0.025846554, z: 0.020019209}
+      rotation: {x: -0.01579601, y: -0.030946538, z: -0.08266164, w: 0.99597186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftHandIndex4
+      parentName: Necromancer_LeftHandIndex3
+      position: {x: 0.00016334456, y: -0.044356566, z: 0.027677998}
+      rotation: {x: -0.0035600828, y: 0.050185483, z: 0.03017983, w: 0.9982775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftHandMiddle1
+      parentName: Necromancer_LeftHand
+      position: {x: -0.16834873, y: -0.02402106, z: -0.029436274}
+      rotation: {x: -0.027367644, y: -0.643025, z: -0.4839146, w: 0.59295577}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000004}
+    - name: Necromancer_LeftHandMiddle2
+      parentName: Necromancer_LeftHandMiddle1
+      position: {x: 0.013132063, y: -0.029801624, z: 0.01962885}
+      rotation: {x: -0.01316011, y: 0.32382774, z: -0.058391348, w: 0.9442208}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Necromancer_LeftHandMiddle3
+      parentName: Necromancer_LeftHandMiddle2
+      position: {x: 0.0016956269, y: -0.031159071, z: 0.021631258}
+      rotation: {x: 0.013891814, y: -0.01981752, z: 0.09758518, w: 0.9949329}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Necromancer_LeftHandMiddle4
+      parentName: Necromancer_LeftHandMiddle3
+      position: {x: -0.0013368683, y: -0.05048184, z: 0.037309863}
+      rotation: {x: -0.002606924, y: -0.023706874, z: -0.16876456, w: 0.98536783}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Necromancer_LeftHandRing1
+      parentName: Necromancer_LeftHand
+      position: {x: -0.142916, y: -0.041297697, z: -0.046715863}
+      rotation: {x: -0.19521795, y: -0.6302729, z: -0.50959384, w: 0.55223197}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Necromancer_LeftHandRing2
+      parentName: Necromancer_LeftHandRing1
+      position: {x: 0.010200653, y: -0.036348, z: 0.00880877}
+      rotation: {x: 0.026202248, y: 0.45720595, z: -0.1354975, w: 0.87858784}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: Necromancer_LeftHandRing3
+      parentName: Necromancer_LeftHandRing2
+      position: {x: 0.0061605335, y: -0.033800684, z: 0.023135768}
+      rotation: {x: 0.019201675, y: -0.02347683, z: 0.079070866, w: 0.99640757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_LeftHandRing4
+      parentName: Necromancer_LeftHandRing3
+      position: {x: 0.007317424, y: -0.04810275, z: 0.03669008}
+      rotation: {x: -0.007409136, y: -0.03424829, z: -0.08624169, w: 0.99565786}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Necromancer_LeftHandPinky1
+      parentName: Necromancer_LeftHand
+      position: {x: -0.11869705, y: -0.049851302, z: -0.06367349}
+      rotation: {x: -0.16649748, y: -0.6338786, z: -0.50731885, w: 0.5595571}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Necromancer_LeftHandPinky2
+      parentName: Necromancer_LeftHandPinky1
+      position: {x: 0.008642686, y: -0.027059201, z: 0.008383273}
+      rotation: {x: 0.07026169, y: 0.37460855, z: -0.1176646, w: 0.91699886}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Necromancer_LeftHandPinky3
+      parentName: Necromancer_LeftHandPinky2
+      position: {x: 0.0071236654, y: -0.024248451, z: 0.019202482}
+      rotation: {x: 0.02948663, y: -0.019279562, z: -0.04814855, w: 0.9982187}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Necromancer_LeftHandPinky4
+      parentName: Necromancer_LeftHandPinky3
+      position: {x: 0.016870037, y: -0.028871175, z: 0.028192164}
+      rotation: {x: -0.021167614, y: -0.04007146, z: -0.077726565, w: 0.9959442}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightShoulder
+      parentName: Necromancer_Spine2
+      position: {x: 0.000000026571874, y: 0.12172454, z: 5.013795e-16}
+      rotation: {x: -0.094150186, y: 0.64257073, z: 0.6737441, w: 0.3525727}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Necromancer_RightArm
+      parentName: Necromancer_RightShoulder
+      position: {x: -0.01984794, y: -0.070038676, z: 0.07372478}
+      rotation: {x: 0.33171523, y: -0.392885, z: -0.026241025, w: 0.8572735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightForeArm
+      parentName: Necromancer_RightArm
+      position: {x: 0.10236616, y: 0.05823715, z: 0.27378327}
+      rotation: {x: -0.2305233, y: -0.05955685, z: -0.083277166, w: 0.96766573}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Necromancer_RightHand
+      parentName: Necromancer_RightForeArm
+      position: {x: 0.10087034, y: -0.022111071, z: 0.20170432}
+      rotation: {x: -0.059604563, y: 0.014171545, z: -0.31021872, w: 0.9486889}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: transform1
+      parentName: Necromancer_RightHand
+      position: {x: 0.2784795, y: -1.2352155, z: 0.26771593}
+      rotation: {x: -0.14842182, y: -0.30334696, z: 0.33690867, w: 0.8788881}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: scythe_1
+      parentName: transform1
+      position: {x: 0.5875357, y: 1.0114678, z: 0.0499626}
+      rotation: {x: 0.7346411, y: -0.081099086, z: 0.65616804, w: -0.15221348}
+      scale: {x: 1, y: 1, z: 1}
+    - name: scythe_2
+      parentName: scythe_1
+      position: {x: -0.13929215, y: 0.34620383, z: -0.08804326}
+      rotation: {x: 0, y: 0, z: 0.6604503, w: 0.75086975}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightHandThumb1
+      parentName: Necromancer_RightHand
+      position: {x: -0.02780004, y: -0.0018454756, z: 0.05297889}
+      rotation: {x: -0.20796378, y: -0.48612818, z: 0.28895625, w: 0.79808193}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Necromancer_RightHandThumb2
+      parentName: Necromancer_RightHandThumb1
+      position: {x: 0.026861094, y: -0.043125715, z: 0.054504566}
+      rotation: {x: -0.20481907, y: -0.0986857, z: 0.2353988, w: 0.9449326}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: Necromancer_RightHandThumb3
+      parentName: Necromancer_RightHandThumb2
+      position: {x: 0.006026728, y: -0.069394775, z: 0.02237604}
+      rotation: {x: -0.017808659, y: 0.23731129, z: -0.059916265, w: 0.9694206}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Necromancer_RightHandThumb4
+      parentName: Necromancer_RightHandThumb3
+      position: {x: 0.004032198, y: -0.04459972, z: 0.010696021}
+      rotation: {x: 0.004095428, y: 0.04397949, z: -0.0281335, w: 0.99862784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightHandIndex1
+      parentName: Necromancer_RightHand
+      position: {x: 0.035570852, y: 0.0074997335, z: 0.1691313}
+      rotation: {x: -0.089886375, y: -0.49492344, z: 0.47913125, w: 0.7193083}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Necromancer_RightHandIndex2
+      parentName: Necromancer_RightHandIndex1
+      position: {x: 0.021801885, y: -0.04128915, z: 0.016211415}
+      rotation: {x: 0.021807136, y: 0.33805624, z: -0.07321639, w: 0.93802017}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Necromancer_RightHandIndex3
+      parentName: Necromancer_RightHandIndex2
+      position: {x: 0.0050083706, y: -0.025888214, z: 0.019733002}
+      rotation: {x: -0.014327703, y: -0.04405777, z: 0.084488064, w: 0.9953469}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Necromancer_RightHandIndex4
+      parentName: Necromancer_RightHandIndex3
+      position: {x: 0.005256671, y: -0.04490608, z: 0.026256656}
+      rotation: {x: 0.0035600828, y: 0.050185483, z: -0.03017983, w: 0.9982775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightHandMiddle1
+      parentName: Necromancer_RightHand
+      position: {x: 0.060399387, y: -0.014390553, z: 0.16102669}
+      rotation: {x: -0.06519423, y: -0.43177515, z: 0.47486567, w: 0.7640828}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Necromancer_RightHandMiddle2
+      parentName: Necromancer_RightHandMiddle1
+      position: {x: 0.017204305, y: -0.029273234, z: 0.017116372}
+      rotation: {x: 0.016568523, y: 0.2836883, z: 0.057179276, w: 0.95706683}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Necromancer_RightHandMiddle3
+      parentName: Necromancer_RightHandMiddle2
+      position: {x: 0.0014065622, y: -0.031345736, z: 0.021380845}
+      rotation: {x: 0.0026152881, y: 0.13836274, z: -0.096423425, w: 0.98567307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightHandMiddle4
+      parentName: Necromancer_RightHandMiddle3
+      position: {x: -0.0020246105, y: -0.051445372, z: 0.035937518}
+      rotation: {x: 0.002606924, y: -0.023706874, z: 0.16876456, w: 0.98536783}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Necromancer_RightHandRing1
+      parentName: Necromancer_RightHand
+      position: {x: 0.07101847, y: -0.034883473, z: 0.13435903}
+      rotation: {x: -0.038571276, y: -0.45916325, z: 0.5026462, w: 0.7314563}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: Necromancer_RightHandRing2
+      parentName: Necromancer_RightHandRing1
+      position: {x: 0.017417945, y: -0.030862205, z: 0.015715059}
+      rotation: {x: -0.027731054, y: 0.42593792, z: 0.13874573, w: 0.8936205}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Necromancer_RightHandRing3
+      parentName: Necromancer_RightHandRing2
+      position: {x: -0.009006848, y: -0.034163106, z: 0.02162084}
+      rotation: {x: 0.016767113, y: 0.02916138, z: -0.07596306, w: 0.99654305}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Necromancer_RightHandRing4
+      parentName: Necromancer_RightHandRing3
+      position: {x: -0.01201752, y: -0.04955383, z: 0.033370297}
+      rotation: {x: 0.007409136, y: -0.03424829, z: 0.08624169, w: 0.99565786}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Necromancer_RightHandPinky1
+      parentName: Necromancer_RightHand
+      position: {x: 0.082187295, y: -0.046594128, z: 0.10817886}
+      rotation: {x: -0.043943517, y: -0.40262517, z: 0.48036438, w: 0.7779538}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_RightHandPinky2
+      parentName: Necromancer_RightHandPinky1
+      position: {x: 0.013333123, y: -0.021918895, z: 0.0147975}
+      rotation: {x: -0.047576312, y: 0.42951372, z: 0.10534771, w: 0.8956318}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Necromancer_RightHandPinky3
+      parentName: Necromancer_RightHandPinky2
+      position: {x: -0.009465514, y: -0.02526102, z: 0.016725853}
+      rotation: {x: 0.0020511071, y: 0.02695706, z: 0.05216204, w: 0.99827266}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Necromancer_RightHandPinky4
+      parentName: Necromancer_RightHandPinky3
+      position: {x: -0.020755839, y: -0.031328388, z: 0.022375634}
+      rotation: {x: 0.021167614, y: -0.04007146, z: 0.077726565, w: 0.9959442}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Neck
+      parentName: Necromancer_Spine2
+      position: {x: -0.09562367, y: 0.113873824, z: -0.028985776}
+      rotation: {x: 0.049270656, y: -0.07341412, z: 0.59028345, w: 0.80233926}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Necromancer_Head
+      parentName: Necromancer_Neck
+      position: {x: 0.1415709, y: 0.16241941, z: 0.014551624}
+      rotation: {x: -0.004552321, y: 0.1364724, z: -0.3211861, w: 0.9371201}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_10
+      parentName: Necromancer_Head
+      position: {x: -0.06985237, y: 0.06976419, z: -0.030775292}
+      rotation: {x: 0.029238615, y: 0.12804635, z: 0.17720501, w: 0.9753705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_11
+      parentName: Necromancer_Head_sceleton_10
+      position: {x: 0.0010005317, y: 0.02541692, z: 0.013907654}
+      rotation: {x: 3.469447e-18, y: -1.5612511e-17, z: 1.3010426e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_1
+      parentName: Necromancer_Head
+      position: {x: -0.002013084, y: 0.11352894, z: 0.010604}
+      rotation: {x: -0.67562085, y: 0.67582524, z: 0.23465674, w: 0.17813769}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_2
+      parentName: Necromancer_Head_sceleton_1
+      position: {x: -0.057128794, y: -0.0011478936, z: -0.00006507749}
+      rotation: {x: -0.0018036547, y: -0.054339435, z: 0.014843698, w: 0.9984106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_3
+      parentName: Necromancer_Head_sceleton_2
+      position: {x: -0.032570284, y: 2.6645352e-17, z: 0}
+      rotation: {x: -1.7347235e-18, y: 1.3904893e-17, z: 3.6185248e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_4
+      parentName: Necromancer_Head_sceleton_1
+      position: {x: -0.0035916222, y: -0.04653739, z: -0.010958682}
+      rotation: {x: -0.20220853, y: -0.5409973, z: 0.18974698, w: 0.79399604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_5
+      parentName: Necromancer_Head_sceleton_4
+      position: {x: -0.07464905, y: 0.016964855, z: 0.003746032}
+      rotation: {x: 0.017333405, y: 0.32613817, z: -0.4630161, w: 0.82398397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_6
+      parentName: Necromancer_Head_sceleton_5
+      position: {x: -0.084687926, y: 0.011903657, z: 0.010617081}
+      rotation: {x: -2.7755576e-17, y: -5.3776428e-17, z: 1.1188966e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_7
+      parentName: Necromancer_Head_sceleton_1
+      position: {x: 0.0017440853, y: 0.033959307, z: 0.006328973}
+      rotation: {x: -0.38677704, y: 0.81498086, z: 0.12054375, w: -0.4143416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_8
+      parentName: Necromancer_Head_sceleton_7
+      position: {x: -0.06819746, y: -2.842171e-16, z: 0}
+      rotation: {x: -0.42197728, y: 0.8344595, z: 0.13120902, w: 0.32923663}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_9
+      parentName: Necromancer_Head_sceleton_8
+      position: {x: -0.078269936, y: 0.0037023854, z: 0.00064192247}
+      rotation: {x: 4.1633363e-17, y: 4.8572257e-17, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_20
+      parentName: Necromancer_Head
+      position: {x: 0.05590187, y: 0.05313622, z: -0.024813298}
+      rotation: {x: 0.0023824968, y: -0.030610265, z: -0.12208888, w: 0.9920442}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_21
+      parentName: Necromancer_Head_sceleton_20
+      position: {x: 0.0062920814, y: 0.044378538, z: -0.0017514597}
+      rotation: {x: 0, y: -7.101524e-18, z: 4.171468e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_12
+      parentName: Necromancer_Head
+      position: {x: 0.013801235, y: 0.06577802, z: -0.053992383}
+      rotation: {x: 0.6171223, y: -0.43263382, z: 0.4850245, w: 0.44355306}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_13
+      parentName: Necromancer_Head_sceleton_12
+      position: {x: -0.055431407, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -1.6306401e-16, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_17
+      parentName: Necromancer_Head_sceleton_12
+      position: {x: -0.0044219224, y: 0.009248121, z: -0.013952205}
+      rotation: {x: 0.72399795, y: -0.67635494, z: -0.07593132, w: 0.11227402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_18
+      parentName: Necromancer_Head_sceleton_17
+      position: {x: -0.0501499, y: -0.003707638, z: 0.013346234}
+      rotation: {x: 0.7560949, y: -0.59077877, z: 0.1366178, w: 0.24624519}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_19
+      parentName: Necromancer_Head_sceleton_18
+      position: {x: -0.06782777, y: -0.001367181, z: -0.011704213}
+      rotation: {x: 1.3877788e-17, y: 9.7144515e-17, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_14
+      parentName: Necromancer_Head_sceleton_12
+      position: {x: -0.003147285, y: -0.023834238, z: 0.012290893}
+      rotation: {x: -0.077548504, y: 0.8117686, z: 0.074758425, w: 0.57395923}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_15
+      parentName: Necromancer_Head_sceleton_14
+      position: {x: -0.05836509, y: 0.006841554, z: -0.00067184126}
+      rotation: {x: 0.052073374, y: 0.965796, z: -0.004974795, w: -0.25397196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_sceleton_16
+      parentName: Necromancer_Head_sceleton_15
+      position: {x: -0.06270727, y: -0.0059578046, z: -0.0022076129}
+      rotation: {x: 2.3418767e-17, y: -1.1357018e-16, z: 1.179612e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_right_colchuga_1
+      parentName: Necromancer_Head
+      position: {x: 0.07895259, y: 0.0025364624, z: -0.056154273}
+      rotation: {x: 0.06351563, y: 0.9978344, z: -0.00032125448, w: -0.017093144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_right_colchuga_2
+      parentName: Necromancer_Head_right_colchuga_1
+      position: {x: -0.02662542, y: -0.15146075, z: 0.000060250502}
+      rotation: {x: 0.024774497, y: 0.04271998, z: 0.42828202, w: 0.90229475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_right_colchuga_3
+      parentName: Necromancer_Head_right_colchuga_2
+      position: {x: -0.058126952, y: 0.04537574, z: -0.02618003}
+      rotation: {x: -3.469447e-18, y: 8.673617e-18, z: -5.594483e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_back_colchuga_1
+      parentName: Necromancer_Head
+      position: {x: 0.01218996, y: 0.0011429746, z: -0.11068925}
+      rotation: {x: 0.019298246, y: 0.99974966, z: -0.00028853506, w: 0.011323795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_back_colchuga_2
+      parentName: Necromancer_Head_back_colchuga_1
+      position: {x: -0.0035301899, y: -0.122810975, z: 0.0032171016}
+      rotation: {x: -0.000641776, y: -0.08997432, z: 0.0132526215, w: 0.99585575}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_back_colchuga_3
+      parentName: Necromancer_Head_back_colchuga_2
+      position: {x: -0.0016083879, y: -0.08611965, z: 0.034725722}
+      rotation: {x: 6.505213e-19, y: -6.7762636e-21, z: -4.065758e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_left_colchuga_1
+      parentName: Necromancer_Head
+      position: {x: -0.06193756, y: -0.009296641, z: -0.07531646}
+      rotation: {x: -0.099454604, y: 0.99315274, z: 0.008830644, w: -0.060650405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_left_colchuga_2
+      parentName: Necromancer_Head_left_colchuga_1
+      position: {x: 0.044478137, y: -0.103966035, z: -0.027565314}
+      rotation: {x: -0.007917465, y: 0.010345351, z: -0.39751232, w: 0.9175044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Head_left_colchuga_3
+      parentName: Necromancer_Head_left_colchuga_2
+      position: {x: 0.0735228, y: 0.012473224, z: 0.020863563}
+      rotation: {x: -0.0000026444945, y: 0.0024039855, z: -0.009783564, w: 0.9999493}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_shtandart_centre
+      parentName: Necromancer_Spine2
+      position: {x: -0.036511272, y: 0.049485296, z: -0.1774995}
+      rotation: {x: 0.94789386, y: -0.31766227, z: 0.019448126, w: -0.014484039}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_scull_mid_1
+      parentName: Necromancer_shtandart_centre
+      position: {x: -0.6081896, y: -1.4210854e-16, z: 0}
+      rotation: {x: -0.0072399634, y: 0.025043983, z: 0.03052359, w: 0.999194}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_scull_mid_2
+      parentName: Necromancer_scull_mid_1
+      position: {x: -0.09003344, y: 0, z: 1.7763568e-17}
+      rotation: {x: -4.8789098e-18, y: 0, z: 2.0708261e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_shtandart_left
+      parentName: Necromancer_shtandart_centre
+      position: {x: -0.027685475, y: 0.02171756, z: -0.0039668772}
+      rotation: {x: 0.015542892, y: -0.028764065, z: -0.18232907, w: 0.98269385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_scull_left_1
+      parentName: Necromancer_shtandart_left
+      position: {x: -0.58436686, y: 7.105427e-16, z: -1.0658141e-16}
+      rotation: {x: -0.010556675, y: 0.013561676, z: 0.017417876, w: 0.9997006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_scull_left_2
+      parentName: Necromancer_scull_left_1
+      position: {x: -0.05569263, y: -1.4210854e-16, z: 1.7763567e-16}
+      rotation: {x: 1.7076184e-18, y: 6.8033686e-18, z: 1.0516761e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_shtandart_right
+      parentName: Necromancer_shtandart_centre
+      position: {x: -0.02383143, y: -0.02506267, z: -0.0057733417}
+      rotation: {x: -0.0012180519, y: 0.007122346, z: 0.1420905, w: 0.98982733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_scull_right_1
+      parentName: Necromancer_shtandart_right
+      position: {x: -0.5863358, y: -8.881784e-18, z: 1.0658141e-16}
+      rotation: {x: 0.00008483896, y: -0.011298705, z: 0.019291943, w: 0.9997501}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_scull_right_2
+      parentName: Necromancer_scull_right_1
+      position: {x: -0.080134846, y: -1.4432899e-16, z: -2.4868996e-16}
+      rotation: {x: -8.131516e-20, y: 1.4823077e-21, z: 8.4703295e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_front_1
+      parentName: Necromancer_Spine
+      position: {x: 0.1002695, y: 0.13039574, z: -0.09993036}
+      rotation: {x: -0.025700716, y: 0.99398315, z: 0.0027521362, w: -0.10643972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_front_2
+      parentName: Necromancer_toga_left_front_1
+      position: {x: -0.1259164, y: 0.013679126, z: 0.0322393}
+      rotation: {x: -0.0037551725, y: 0.085106306, z: 0.0075786193, w: 0.996336}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_front_3
+      parentName: Necromancer_toga_left_front_2
+      position: {x: -0.16510601, y: 7.105427e-17, z: 2.1316282e-16}
+      rotation: {x: 1.0842022e-19, y: 3.3881318e-21, z: -8.6736174e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_1
+      parentName: Necromancer_Spine
+      position: {x: 0.10703599, y: 0.20006502, z: 0.0091887945}
+      rotation: {x: -0.011026975, y: 0.89140487, z: -0.056078997, w: -0.44958982}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_2
+      parentName: Necromancer_chain_scull_left_1
+      position: {x: -0.06672736, y: -7.105427e-17, z: 0}
+      rotation: {x: 0.041940413, y: -0.2869716, z: -0.017756652, w: 0.9568558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_3
+      parentName: Necromancer_chain_scull_left_2
+      position: {x: -0.04266724, y: 0, z: 0}
+      rotation: {x: 0.004745328, y: -0.016766887, z: -0.11210852, w: 0.9935432}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_4
+      parentName: Necromancer_chain_scull_left_3
+      position: {x: -0.04686618, y: 7.105427e-17, z: -7.105427e-17}
+      rotation: {x: -0.0053641177, y: 0.008548433, z: -0.17010774, w: 0.9853738}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_5
+      parentName: Necromancer_chain_scull_left_4
+      position: {x: -0.039670836, y: 2.842171e-16, z: 1.4210854e-16}
+      rotation: {x: 0.18377069, y: -0.32084, z: 0.19378547, w: 0.9087008}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_6
+      parentName: Necromancer_chain_scull_left_5
+      position: {x: -0.041568454, y: -5.684342e-16, z: 0}
+      rotation: {x: 0.046619445, y: -0.12468634, z: -0.047332715, w: 0.9899695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_7
+      parentName: Necromancer_chain_scull_left_6
+      position: {x: -0.08295069, y: 7.105427e-17, z: -3.5527135e-16}
+      rotation: {x: -0.005684912, y: -0.38665116, z: 0.37640685, w: 0.84189457}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_8
+      parentName: Necromancer_chain_scull_left_7
+      position: {x: -0.03769925, y: 7.105427e-17, z: -1.4210854e-16}
+      rotation: {x: -0.0047260397, y: -0.33678576, z: -0.3847632, w: 0.85936624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_9
+      parentName: Necromancer_chain_scull_left_8
+      position: {x: -0.030534651, y: 3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: 0.12738742, y: 0.42465913, z: 0.57630014, w: 0.68652403}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_10
+      parentName: Necromancer_chain_scull_left_9
+      position: {x: -0.054556534, y: -1.7763568e-17, z: -4.2632563e-16}
+      rotation: {x: -0.08086426, y: -0.1682147, z: -0.50638604, w: 0.8418658}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_11
+      parentName: Necromancer_chain_scull_left_10
+      position: {x: -0.026121326, y: 2.1316282e-16, z: 4.2632563e-16}
+      rotation: {x: -0.019830102, y: -0.48840606, z: 0.11658634, w: 0.8645658}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_12
+      parentName: Necromancer_chain_scull_left_11
+      position: {x: -0.059556082, y: -1.4210854e-16, z: -3.5527135e-16}
+      rotation: {x: -0.06268756, y: -0.18048744, z: 0.15614294, w: 0.9690789}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_13
+      parentName: Necromancer_chain_scull_left_12
+      position: {x: -0.057056367, y: -2.1316282e-16, z: -5.3290704e-17}
+      rotation: {x: -0.029286748, y: -0.1521448, z: -0.2956549, w: 0.94264656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_14
+      parentName: Necromancer_chain_scull_left_13
+      position: {x: -0.06525669, y: -7.105427e-17, z: -7.105427e-17}
+      rotation: {x: 0.0016419385, y: -0.25844437, z: 0.10351455, w: 0.9604627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_15
+      parentName: Necromancer_chain_scull_left_14
+      position: {x: -0.046076216, y: 7.105427e-17, z: 2.842171e-16}
+      rotation: {x: -0.01904455, y: -0.061040692, z: 0.19968022, w: 0.97777253}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_16
+      parentName: Necromancer_chain_scull_left_15
+      position: {x: -0.045447666, y: 0, z: 2.842171e-16}
+      rotation: {x: -0.050880525, y: -0.1597714, z: -0.1916695, w: 0.96703005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_left_17
+      parentName: Necromancer_chain_scull_left_16
+      position: {x: -0.032473523, y: -1.4210854e-16, z: 0}
+      rotation: {x: 1.0408341e-17, y: -8.84709e-17, z: 5.3776428e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_1
+      parentName: Necromancer_Spine
+      position: {x: 0.06211749, y: 0.16732971, z: 0.015253802}
+      rotation: {x: -0.04842421, y: -0.82881564, z: 0.0325124, w: 0.55647343}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_2
+      parentName: Necromancer_chain_left_1
+      position: {x: -0.065009944, y: 3.5527136e-17, z: 0}
+      rotation: {x: -0.1612177, y: -0.0699732, z: -0.108794585, w: 0.978405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_3
+      parentName: Necromancer_chain_left_2
+      position: {x: -0.07751122, y: 0, z: 5.684342e-16}
+      rotation: {x: -0.05013059, y: -0.21999471, z: 0.43001932, w: 0.8741697}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_4
+      parentName: Necromancer_chain_left_3
+      position: {x: -0.061857246, y: 2.1316282e-16, z: -3.5527135e-16}
+      rotation: {x: 0.12163238, y: 0.09377646, z: 0.28807393, w: 0.94521165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_5
+      parentName: Necromancer_chain_left_4
+      position: {x: -0.0553216, y: -1.4210854e-16, z: 1.4210854e-16}
+      rotation: {x: 0.83854663, y: 0.4868621, z: -0.028789517, w: -0.24284977}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_6
+      parentName: Necromancer_chain_left_5
+      position: {x: -0.03347003, y: 8.8817837e-17, z: 2.842171e-16}
+      rotation: {x: -0.08259134, y: -0.16490808, z: -0.52951175, w: 0.82801044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_7
+      parentName: Necromancer_chain_left_6
+      position: {x: -0.004929187, y: 0.02317921, z: -0.011926149}
+      rotation: {x: 4.1633363e-17, y: 2.0816682e-17, z: -6.938894e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_1
+      parentName: Necromancer_Spine
+      position: {x: 0.05906803, y: 0.08347373, z: -0.11985706}
+      rotation: {x: -0.04551593, y: 0.99556935, z: 0.0037578042, w: -0.08219459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_2
+      parentName: Necromancer_chain_left_long_1
+      position: {x: -0.08661536, y: -3.5527136e-17, z: -7.105427e-17}
+      rotation: {x: 0.052202336, y: -0.14889316, z: -0.2403211, w: 0.9577847}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_3
+      parentName: Necromancer_chain_left_long_2
+      position: {x: -0.056660686, y: 3.5527135e-16, z: 5.1070257e-17}
+      rotation: {x: 0.081028186, y: -0.09664407, z: -0.113517076, w: 0.98549896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_4
+      parentName: Necromancer_chain_left_long_3
+      position: {x: -0.07247407, y: -1.4210854e-16, z: -1.0658141e-16}
+      rotation: {x: -0.035545114, y: 0.04064601, z: 0.09359003, w: 0.9941456}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_5
+      parentName: Necromancer_chain_left_long_4
+      position: {x: -0.066730544, y: 2.842171e-16, z: 7.105427e-17}
+      rotation: {x: 0.045785166, y: -0.07468128, z: 0.074350856, w: 0.99337727}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_6
+      parentName: Necromancer_chain_left_long_5
+      position: {x: -0.050734524, y: -7.105427e-17, z: 1.7763567e-16}
+      rotation: {x: 0.00545564, y: -0.012287461, z: 0.05737984, w: 0.9982619}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_7
+      parentName: Necromancer_chain_left_long_6
+      position: {x: -0.049674332, y: 0, z: -2.1316282e-16}
+      rotation: {x: -0.08023486, y: 0.20958304, z: -0.0050491192, w: 0.97448033}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_8
+      parentName: Necromancer_chain_left_long_7
+      position: {x: -0.062264685, y: -5.684342e-16, z: 9.103829e-17}
+      rotation: {x: -0.121706836, y: 0.24124914, z: -0.09269945, w: 0.9583283}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_9
+      parentName: Necromancer_chain_left_long_8
+      position: {x: -0.058346108, y: 1.4210854e-16, z: 7.105427e-17}
+      rotation: {x: -0.003805054, y: 0.0074892906, z: 0.09344101, w: 0.9955894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_10
+      parentName: Necromancer_chain_left_long_9
+      position: {x: -0.051875874, y: 7.105427e-17, z: 0}
+      rotation: {x: 0.028551087, y: -0.09539318, z: 0.085154995, w: 0.9913797}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_11
+      parentName: Necromancer_chain_left_long_10
+      position: {x: -0.044195145, y: 7.105427e-17, z: 3.5527136e-17}
+      rotation: {x: 0.008933155, y: -0.10641737, z: 0.12039005, w: 0.98696595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_12
+      parentName: Necromancer_chain_left_long_11
+      position: {x: -0.056077525, y: -1.7763567e-16, z: 0}
+      rotation: {x: -0.0028932802, y: -0.07046876, z: 0.003393973, w: 0.99750406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_13
+      parentName: Necromancer_chain_left_long_12
+      position: {x: -0.051405277, y: 1.7763567e-16, z: -5.3290704e-17}
+      rotation: {x: 0.00016580692, y: -0.0060387747, z: -0.071823984, w: 0.9973991}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_14
+      parentName: Necromancer_chain_left_long_13
+      position: {x: -0.087740675, y: -1.4210854e-16, z: -7.105427e-17}
+      rotation: {x: -0.009840419, y: 0.06984658, z: -0.040515315, w: 0.9966861}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_15
+      parentName: Necromancer_chain_left_long_14
+      position: {x: -0.099654205, y: 0, z: 7.105427e-17}
+      rotation: {x: 0.011569621, y: -0.06671349, z: 0.00885751, w: 0.9976658}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_16
+      parentName: Necromancer_chain_left_long_15
+      position: {x: -0.09557123, y: 2.1316282e-16, z: -5.3290704e-17}
+      rotation: {x: 0.025228297, y: -0.28587517, z: 0.07160137, w: 0.95525503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_17
+      parentName: Necromancer_chain_left_long_16
+      position: {x: -0.09970486, y: -2.1316282e-16, z: -2.6645352e-17}
+      rotation: {x: 0.007962583, y: -0.22285151, z: -0.021940632, w: 0.97457296}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_18
+      parentName: Necromancer_chain_left_long_17
+      position: {x: -0.095031515, y: 7.105427e-17, z: -3.1086245e-17}
+      rotation: {x: 0.028088326, y: -0.15928568, z: -0.11453008, w: 0.9801643}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_19
+      parentName: Necromancer_chain_left_long_18
+      position: {x: -0.09326499, y: 0, z: -1.11022296e-17}
+      rotation: {x: 0.03325825, y: -0.08451346, z: -0.083601885, w: 0.99235183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_20
+      parentName: Necromancer_chain_left_long_19
+      position: {x: -0.095927015, y: -1.0658141e-16, z: -1.11022296e-17}
+      rotation: {x: -0.005398864, y: 0.010840278, z: -0.0031153392, w: 0.99992186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_21
+      parentName: Necromancer_chain_left_long_20
+      position: {x: -0.101282574, y: 7.105427e-17, z: -3.375078e-16}
+      rotation: {x: 0.007343934, y: -0.015378758, z: 0.019671068, w: 0.99966127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_left_long_22
+      parentName: Necromancer_chain_left_long_21
+      position: {x: -0.08441633, y: -1.4210854e-16, z: -1.9984014e-17}
+      rotation: {x: 3.035766e-18, y: -1.978669e-18, z: -2.7796233e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_1
+      parentName: Necromancer_Spine
+      position: {x: 0.107035995, y: -0.200065, z: 0.00918879}
+      rotation: {x: 0.057461932, y: 0.90678555, z: -0.026413508, w: -0.4168218}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_2
+      parentName: Necromancer_chain_scull_right_1
+      position: {x: -0.066727005, y: 0, z: 0}
+      rotation: {x: -0.041940577, y: -0.28695777, z: 0.017761314, w: 0.9568599}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_3
+      parentName: Necromancer_chain_scull_right_2
+      position: {x: -0.04266735, y: 0, z: 2.1316282e-16}
+      rotation: {x: -0.0047412086, y: -0.01673683, z: 0.11210606, w: 0.993544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_4
+      parentName: Necromancer_chain_scull_right_3
+      position: {x: -0.04686644, y: 2.1316282e-16, z: -2.1316282e-16}
+      rotation: {x: 0.005379092, y: 0.008591979, z: 0.17011395, w: 0.9853723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_5
+      parentName: Necromancer_chain_scull_right_4
+      position: {x: -0.039671443, y: -2.842171e-16, z: 1.7763567e-16}
+      rotation: {x: -0.18375894, y: -0.32078442, z: -0.1937861, w: 0.90872276}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_6
+      parentName: Necromancer_chain_scull_right_5
+      position: {x: -0.041568227, y: 2.1316282e-16, z: 3.5527135e-16}
+      rotation: {x: -0.046608254, y: -0.12461603, z: 0.047356356, w: 0.9899777}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_7
+      parentName: Necromancer_chain_scull_right_6
+      position: {x: -0.0829508, y: 1.4210854e-16, z: -7.105427e-17}
+      rotation: {x: 0.0056800772, y: -0.38657945, z: -0.37638775, w: 0.84193605}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_8
+      parentName: Necromancer_chain_scull_right_7
+      position: {x: -0.03769938, y: -1.7763567e-16, z: 0}
+      rotation: {x: 0.004743341, y: -0.33669558, z: 0.38481036, w: 0.85938036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_9
+      parentName: Necromancer_chain_scull_right_8
+      position: {x: -0.030534688, y: 7.9936054e-17, z: -2.1316282e-16}
+      rotation: {x: -0.12738676, y: 0.4247227, z: -0.57626235, w: 0.6865166}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_10
+      parentName: Necromancer_chain_scull_right_9
+      position: {x: -0.054556888, y: -5.3290704e-17, z: -1.4210854e-16}
+      rotation: {x: 0.08083126, y: -0.16813383, z: 0.5064294, w: 0.84185904}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_11
+      parentName: Necromancer_chain_scull_right_10
+      position: {x: -0.02612098, y: 2.4868996e-16, z: 5.684342e-16}
+      rotation: {x: 0.019842831, y: -0.488333, z: -0.11659435, w: 0.86460567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_12
+      parentName: Necromancer_chain_scull_right_11
+      position: {x: -0.05955612, y: -1.4210854e-16, z: 2.1316282e-16}
+      rotation: {x: 0.06269391, y: -0.18043804, z: -0.15614165, w: 0.9690879}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_13
+      parentName: Necromancer_chain_scull_right_12
+      position: {x: -0.057056148, y: 7.105427e-17, z: -3.1974422e-16}
+      rotation: {x: 0.029287733, y: -0.15209557, z: 0.29565242, w: 0.9426552}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_14
+      parentName: Necromancer_chain_scull_right_13
+      position: {x: -0.06525711, y: -1.7763567e-16, z: -2.1316282e-16}
+      rotation: {x: -0.001630307, y: -0.25842482, z: -0.10353285, w: 0.96046597}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_15
+      parentName: Necromancer_chain_scull_right_14
+      position: {x: -0.046075672, y: -3.5527136e-17, z: 0}
+      rotation: {x: 0.0190466, y: -0.061027262, z: -0.19967999, w: 0.9777734}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_chain_scull_right_16
+      parentName: Necromancer_chain_scull_right_15
+      position: {x: -0.045447845, y: 3.5527135e-16, z: -2.842171e-16}
+      rotation: {x: -1.0408341e-17, y: 1.994932e-17, z: 2.7972416e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_front_shield_1
+      parentName: Necromancer_Spine
+      position: {x: 0.08402891, y: 0.0017207925, z: -0.15047531}
+      rotation: {x: -0.013555802, y: 0.9951064, z: -0.00017516312, w: -0.09787473}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_front_shield_2
+      parentName: Necromancer_front_shield_1
+      position: {x: -0.37457213, y: 1.7763568e-17, z: 3.5527136e-17}
+      rotation: {x: 6.8304737e-18, y: 7.0320675e-18, z: 9.367507e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_back_1
+      parentName: Necromancer_Spine
+      position: {x: 0.066238955, y: 0.11338321, z: 0.10583282}
+      rotation: {x: -0.20437947, y: 0.9642341, z: -0.034994107, w: 0.16509736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_back_2
+      parentName: Necromancer_toga_left_back_1
+      position: {x: -0.13138953, y: 2.1316282e-16, z: -2.1316282e-16}
+      rotation: {x: -0.02970014, y: 0.101181075, z: 0.1311035, w: 0.9857445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_back_3
+      parentName: Necromancer_toga_left_back_2
+      position: {x: -0.15507613, y: -1.0658141e-16, z: 3.5527136e-17}
+      rotation: {x: 0.01128901, y: -0.0767931, z: 0.0073089083, w: 0.9969564}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_back_4
+      parentName: Necromancer_toga_left_back_3
+      position: {x: -0.33459076, y: -1.0658141e-16, z: -3.5527135e-16}
+      rotation: {x: 4.1199683e-18, y: -2.7633603e-17, z: 1.1384123e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_centre_back_1
+      parentName: Necromancer_Spine
+      position: {x: 0.07047889, y: 0.0036714247, z: 0.13218726}
+      rotation: {x: 0.0023427503, y: 0.9897624, z: 0.00033778106, w: 0.14270537}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_centre_back_2
+      parentName: Necromancer_toga_centre_back_1
+      position: {x: -0.30491555, y: -9.325873e-17, z: -1.4210854e-16}
+      rotation: {x: -0.000059860373, y: 0.0045696013, z: -0.01783177, w: 0.9998306}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_centre_back_3
+      parentName: Necromancer_toga_centre_back_2
+      position: {x: -0.29429305, y: -5.1958436e-16, z: 2.1316282e-16}
+      rotation: {x: 9.215718e-19, y: 1.7520877e-18, z: 3.4739998e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_back_1
+      parentName: Necromancer_Spine
+      position: {x: 0.07919966, y: -0.13391171, z: 0.102352194}
+      rotation: {x: -0.0006343795, y: 0.9856608, z: -0.000108601, w: 0.16873772}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_back_2
+      parentName: Necromancer_toga_right_back_1
+      position: {x: -0.36646727, y: 1.5987211e-16, z: -2.1316282e-16}
+      rotation: {x: 0.013485052, y: 0.09676945, z: 0.13862702, w: 0.98551327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_back_3
+      parentName: Necromancer_toga_right_back_2
+      position: {x: -0.20895264, y: 0, z: 7.105427e-17}
+      rotation: {x: -8.673617e-18, y: 1.0842022e-18, z: 2.7105054e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_front_1
+      parentName: Necromancer_Spine
+      position: {x: 0.06748202, y: 0.01402248, z: -0.10900278}
+      rotation: {x: 0.009054685, y: 0.9979683, z: -0.0005721791, w: -0.06306311}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_front_2
+      parentName: Necromancer_toga_front_1
+      position: {x: -0.31048936, y: -4.8294702e-17, z: 7.105427e-17}
+      rotation: {x: 0.013608714, y: 0.06734093, z: 0.17983878, w: 0.98129404}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_front_3
+      parentName: Necromancer_toga_front_2
+      position: {x: -0.25175613, y: 7.105427e-17, z: -3.5527135e-16}
+      rotation: {x: 6.938894e-18, y: 1.3010426e-17, z: 1.0842022e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_front_1
+      parentName: Necromancer_Spine
+      position: {x: 0.05890847, y: -0.10016884, z: -0.07041645}
+      rotation: {x: 0.123263575, y: 0.9831212, z: -0.01681959, w: -0.13414909}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_front_2
+      parentName: Necromancer_toga_right_front_1
+      position: {x: -0.27999455, y: 0, z: -2.1316282e-16}
+      rotation: {x: 0.00085660326, y: -0.18018563, z: 0.023264559, w: 0.98335713}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_front_3
+      parentName: Necromancer_toga_right_front_2
+      position: {x: -0.24931386, y: 3.5527135e-16, z: -1.4210854e-16}
+      rotation: {x: -1.0943666e-17, y: -6.8812957e-18, z: 7.708e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_1
+      parentName: Necromancer_Spine
+      position: {x: 0.106151, y: -0.197855, z: 0.0245391}
+      rotation: {x: 0.05386328, y: 0.99684507, z: -0.003145507, w: -0.058213748}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_2
+      parentName: Necromancer_toga_right_1
+      position: {x: -0.21945839, y: -2.842171e-16, z: -2.1316282e-16}
+      rotation: {x: -0.05494096, y: -0.22958675, z: 0.12300576, w: 0.9639196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_right_3
+      parentName: Necromancer_toga_right_2
+      position: {x: -0.25817806, y: 3.5527135e-16, z: 3.5527136e-17}
+      rotation: {x: 0, y: -1.7347235e-18, z: 5.89806e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_1
+      parentName: Necromancer_Spine
+      position: {x: 0.09829259, y: 0.19351348, z: 0.017655116}
+      rotation: {x: -0.08252629, y: 0.4647449, z: 0.8680114, w: 0.15413564}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_2
+      parentName: Necromancer_toga_left_1
+      position: {x: -0.22412834, y: -0.06478416, z: 0.02466042}
+      rotation: {x: 0.9633394, y: 0.21505369, z: -0.021087335, w: -0.15901086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_3
+      parentName: Necromancer_toga_left_2
+      position: {x: -0.304786, y: -8.881784e-18, z: 6.106227e-17}
+      rotation: {x: -0.6055437, y: -0.1192319, z: -0.083735645, w: 0.78236115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_toga_left_4
+      parentName: Necromancer_toga_left_3
+      position: {x: -0.29093757, y: 5.5892786e-17, z: -5.2735593e-17}
+      rotation: {x: 0.007393871, y: 0.010037631, z: -0.5930345, w: 0.80508053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_Reference
+      parentName: TestModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_HipsEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0, y: 0.92821544, z: -0.008633084}
+      rotation: {x: 3.0817192e-16, y: -5.551115e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftAnkleEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.18622012, y: 0.09440861, z: -0.06572251}
+      rotation: {x: 3.0878078e-16, y: -1.5265567e-16, z: 3.330669e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightAnkleEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.1862202, y: 0.09440861, z: -0.065723225}
+      rotation: {x: 8.326673e-17, y: -1.3877788e-17, z: 1.8041124e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftWristEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.5627485, y: 1.1647905, z: 0.0394693}
+      rotation: {x: -1.596539e-33, y: 0.000000011175871, z: 1.4285588e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightWristEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.5627481, y: 1.1647902, z: 0.039469346}
+      rotation: {x: 0.000000029802322, y: -0.00000009313226, z: -0.00000005960464, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftKneeEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.13338159, y: 0.56246525, z: -0.005642282}
+      rotation: {x: -1.7293025e-16, y: 7.806256e-18, z: -1.2490009e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightKneeEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.13338156, y: 0.5624652, z: -0.0056430125}
+      rotation: {x: 2.0957628e-16, y: 7.7195195e-17, z: 2.359224e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftElbowEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.3969004, y: 1.2849958, z: -0.057451148}
+      rotation: {x: -0.000000014901161, y: 0.000000016763806, z: 0.000000011175871, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightElbowEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.39689994, y: 1.2849957, z: -0.05745103}
+      rotation: {x: 0.000000059604645, y: -0.000000058673322, z: -0.00000009685755, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_ChestOriginEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0, y: 1.0699999, z: 0}
+      rotation: {x: 3.0817192e-16, y: -5.551115e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_ChestEndEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.000000030994414, y: 1.4658854, z: -2.4352196e-23}
+      rotation: {x: 2.542454e-16, y: 1.3183898e-16, z: 4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftFootEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.24581684, y: -0.005794363, z: 0.11682907}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightFootEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.24581692, y: -0.0057943724, z: 0.116828345}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftShoulderEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.16011725, y: 1.4658868, z: -0.05112323}
+      rotation: {x: 5.4470317e-16, y: 0.000000039115548, z: -0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightShoulderEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.16011721, y: 1.4658868, z: -0.051123247}
+      rotation: {x: 0.000000029802322, y: -0.000000014901161, z: -0.000000059604645, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_HeadEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.0034189224, y: 1.7268279, z: 0.009015596}
+      rotation: {x: 1.4461505e-15, y: 0.000000027298029, z: -0.00000004476169, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHipEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.1046704, y: 0.92821544, z: -0.008633084}
+      rotation: {x: 4.154019e-16, y: -4.3368087e-18, z: 2.7061686e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHipEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.1046704, y: 0.92821544, z: -0.008633084}
+      rotation: {x: 1.2317553e-16, y: 1.2099696e-16, z: -1.4903865e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandThumbEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.56978506, y: 0.99439675, z: 0.19235428}
+      rotation: {x: 3.0606479e-15, y: 0.000000044208715, z: -0.00000006891786, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandIndexEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.6766566, y: 0.9649846, z: 0.22537592}
+      rotation: {x: -0.000000020489097, y: 0.00000006883056, z: -0.000000052154064, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandMiddleEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.64257836, y: 0.94030577, z: 0.20676091}
+      rotation: {x: 0.000000012340022, y: 5.5511148e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandRingEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.60821885, y: 0.92718244, z: 0.17245103}
+      rotation: {x: -0.000000014901161, y: 0.00000007089693, z: 0.00000002235174, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandPinkyEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0.5835087, y: 0.96557593, z: 0.12787175}
+      rotation: {x: 0.000000031664968, y: -0.00000007939525, z: 0.000000044703484, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandThumbEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.5697845, y: 0.9943963, z: 0.19235437}
+      rotation: {x: 0.000000049825758, y: -0.00000008664938, z: -0.000000040978193, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandIndexEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.6766562, y: 0.9649842, z: 0.22537607}
+      rotation: {x: 0.0000000684522, y: -0.000000024607285, z: -0.00000003352761, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandMiddleEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.64257795, y: 0.9403056, z: 0.20676106}
+      rotation: {x: 0.000000028405335, y: -0.000000090949456, z: -0.000000044703476, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandRingEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.60821843, y: 0.9271822, z: 0.17245115}
+      rotation: {x: 0.00000006426126, y: -0.00000008608913, z: -0.00000009685755, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandPinkyEffector
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: 0.5835083, y: 0.9655755, z: 0.12787178}
+      rotation: {x: -1.05896195e-14, y: -0.00000011047814, z: -0.00000009685755, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_Hips
+      parentName: Necromancer_Ctrl_Reference
+      position: {x: -0, y: 1, z: 0}
+      rotation: {x: 3.0817192e-16, y: 5.551115e-17, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftUpLeg
+      parentName: Necromancer_Ctrl_Hips
+      position: {x: -0.1046704, y: -0.07178451, z: -0.008633084}
+      rotation: {x: 3.911937e-16, y: 5.41559e-17, z: 2.7061686e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftLeg
+      parentName: Necromancer_Ctrl_LeftUpLeg
+      position: {x: -0.028711176, y: -0.36575022, z: 0.0029902542}
+      rotation: {x: -1.9645743e-16, y: -2.0122792e-16, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftFoot
+      parentName: Necromancer_Ctrl_LeftLeg
+      position: {x: -0.052838553, y: -0.4680566, z: -0.060080156}
+      rotation: {x: 2.6714742e-16, y: -2.4980018e-16, z: 2.7755576e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftToeBase
+      parentName: Necromancer_Ctrl_LeftFoot
+      position: {x: -0.05959671, y: -0.10020298, z: 0.18255158}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightUpLeg
+      parentName: Necromancer_Ctrl_Hips
+      position: {x: 0.1046704, y: -0.07178451, z: -0.008633084}
+      rotation: {x: -5.981069e-17, y: -4.7704896e-18, z: -2.8532627e-34, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightLeg
+      parentName: Necromancer_Ctrl_RightUpLeg
+      position: {x: 0.028711176, y: -0.36575022, z: 0.0029902542}
+      rotation: {x: -2.6237693e-16, y: -8.2399365e-17, z: -1.3183898e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightFoot
+      parentName: Necromancer_Ctrl_RightLeg
+      position: {x: 0.052838553, y: -0.4680566, z: -0.060080156}
+      rotation: {x: -6.938894e-17, y: 8.326673e-17, z: 6.938894e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightToeBase
+      parentName: Necromancer_Ctrl_RightFoot
+      position: {x: 0.05959671, y: -0.10020298, z: 0.18255158}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_Spine
+      parentName: Necromancer_Ctrl_Hips
+      position: {x: -0, y: 0.07, z: 0}
+      rotation: {x: 3.0817192e-16, y: 5.551115e-17, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_Spine1
+      parentName: Necromancer_Ctrl_Spine
+      position: {x: -0, y: 0.14815101, z: 0}
+      rotation: {x: 3.0817192e-16, y: 5.551115e-17, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_Spine2
+      parentName: Necromancer_Ctrl_Spine1
+      position: {x: -0, y: 0.14815101, z: 1.9721521e-32}
+      rotation: {x: -2.4264445e-16, y: -2.1684043e-16, z: -4.8572257e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftShoulder
+      parentName: Necromancer_Ctrl_Spine2
+      position: {x: -0.07, y: 0.09958343, z: -5.768545e-32}
+      rotation: {x: 2.2685582e-13, y: 0.000000014901161, z: 0.00000001490129, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftArm
+      parentName: Necromancer_Ctrl_LeftShoulder
+      position: {x: -0.090117246, y: 0.000001373291, z: -0.051123235}
+      rotation: {x: 5.646525e-16, y: 0.000000024214387, z: -0.000000029802322, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftForeArm
+      parentName: Necromancer_Ctrl_LeftArm
+      position: {x: -0.23678277, y: -0.18089096, z: -0.0063278675}
+      rotation: {x: -0.000000014901163, y: -0.000000022351742, z: 0.000000026077032, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHand
+      parentName: Necromancer_Ctrl_LeftForeArm
+      position: {x: -0.16584788, y: -0.120205306, z: 0.09692017}
+      rotation: {x: 0.000000014901163, y: -1.6653347e-16, z: -0.000000011175871, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandThumb1
+      parentName: Necromancer_Ctrl_LeftHand
+      position: {x: -0.005319023, y: -0.012035751, z: 0.058394022}
+      rotation: {x: -1.3370381e-15, y: -0.000000017200364, z: -0.000000074505806, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandThumb2
+      parentName: Necromancer_Ctrl_LeftHandThumb1
+      position: {x: 0.008570175, y: -0.04534683, z: 0.058500536}
+      rotation: {x: 2.692982e-24, y: 0.000000025873307, z: -1.0408341e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandThumb3
+      parentName: Necromancer_Ctrl_LeftHandThumb2
+      position: {x: -0.0047294614, y: -0.0687725, z: 0.024507608}
+      rotation: {x: 3.3806153e-24, y: 0.0000000243599, z: -1.3877788e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandThumb4
+      parentName: Necromancer_Ctrl_LeftHandThumb3
+      position: {x: -0.0055582426, y: -0.044238586, z: 0.011482716}
+      rotation: {x: 2.7755576e-17, y: 5.551115e-17, z: 9.020562e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandIndex1
+      parentName: Necromancer_Ctrl_LeftHand
+      position: {x: -0.0993349, y: -0.09109123, z: 0.10845236}
+      rotation: {x: -0.000000022351742, y: 0.000000063562766, z: -0.00000004470348, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandIndex2
+      parentName: Necromancer_Ctrl_LeftHandIndex1
+      position: {x: -0.00796257, y: -0.03809578, z: 0.030466957}
+      rotation: {x: -3.330669e-16, y: -5.3776428e-17, z: 5.89806e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandIndex3
+      parentName: Necromancer_Ctrl_LeftHandIndex2
+      position: {x: -0.0013366699, y: -0.026221465, z: 0.019882735}
+      rotation: {x: -1.6653345e-16, y: 3.1225026e-17, z: -0.0000000111758744, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandIndex4
+      parentName: Necromancer_Ctrl_LeftHandIndex3
+      position: {x: -0.0052738953, y: -0.04439743, z: 0.02710455}
+      rotation: {x: -5.551115e-17, y: -3.8163916e-17, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandMiddle1
+      parentName: Necromancer_Ctrl_LeftHand
+      position: {x: -0.09551189, y: -0.11574463, z: 0.085237704}
+      rotation: {x: 0.0000000121071935, y: 0.0000000273576, z: -4.4918496e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandMiddle2
+      parentName: Necromancer_Ctrl_LeftHandMiddle1
+      position: {x: 0.0006622314, y: -0.02962677, z: 0.023826389}
+      rotation: {x: -8.326672e-17, y: -0.00000004136018, z: 2.0990154e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandMiddle3
+      parentName: Necromancer_Ctrl_LeftHandMiddle2
+      position: {x: -0.0022805785, y: -0.031169662, z: 0.021562109}
+      rotation: {x: -5.2735594e-16, y: -1.2490009e-16, z: -1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandMiddle4
+      parentName: Necromancer_Ctrl_LeftHandMiddle3
+      position: {x: 0.017300261, y: -0.047943495, z: 0.03666542}
+      rotation: {x: -3.330669e-16, y: -1.3877788e-16, z: 1.3183898e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandRing1
+      parentName: Necromancer_Ctrl_LeftHand
+      position: {x: -0.07623188, y: -0.12360672, z: 0.056770876}
+      rotation: {x: -0.000000016763806, y: 0.000000057043508, z: 1.0048386e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandRing2
+      parentName: Necromancer_Ctrl_LeftHandRing1
+      position: {x: 0.00755249, y: -0.03312416, z: 0.018670168}
+      rotation: {x: 3.0531133e-16, y: -1.3877788e-17, z: 5.2041704e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandRing3
+      parentName: Necromancer_Ctrl_LeftHandRing2
+      position: {x: 0.005231972, y: -0.034430847, z: 0.02242424}
+      rotation: {x: 1.6653345e-16, y: 9.7144515e-17, z: 7.2858386e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandRing4
+      parentName: Necromancer_Ctrl_LeftHandRing3
+      position: {x: 0.017977027, y: -0.046446152, z: 0.035116434}
+      rotation: {x: -8.326673e-17, y: 1.3877788e-17, z: 3.469447e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandPinky1
+      parentName: Necromancer_Ctrl_LeftHand
+      position: {x: -0.06347862, y: -0.12557006, z: 0.028828382}
+      rotation: {x: 0.00000002980232, y: -0.00000007473864, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandPinky2
+      parentName: Necromancer_Ctrl_LeftHandPinky1
+      position: {x: 0.0067456053, y: -0.023874588, z: 0.016176432}
+      rotation: {x: 3.6602663e-16, y: -0.00000001711305, z: 0.00000001490116, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandPinky3
+      parentName: Necromancer_Ctrl_LeftHandPinky2
+      position: {x: 0.012596893, y: -0.022900848, z: 0.018009406}
+      rotation: {x: 3.0531133e-16, y: 1.3877788e-16, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_LeftHandPinky4
+      parentName: Necromancer_Ctrl_LeftHandPinky3
+      position: {x: 0.023375968, y: -0.02686905, z: 0.025388192}
+      rotation: {x: 2.7755576e-17, y: 8.326673e-17, z: 6.938894e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightShoulder
+      parentName: Necromancer_Ctrl_Spine2
+      position: {x: 0.07, y: 0.09958343, z: -2.3665827e-32}
+      rotation: {x: 0.000000014901161, y: -0.000000037252903, z: -0.000000029802322, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightArm
+      parentName: Necromancer_Ctrl_RightShoulder
+      position: {x: 0.090117246, y: 0.000001373291, z: -0.051123235}
+      rotation: {x: 0.000000014901158, y: 0.000000022351742, z: -0.000000029802326, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightForeArm
+      parentName: Necromancer_Ctrl_RightArm
+      position: {x: 0.23678277, y: -0.18089096, z: -0.0063278675}
+      rotation: {x: 0.000000029802326, y: -0.000000043772157, z: -0.0000000372529, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHand
+      parentName: Necromancer_Ctrl_RightForeArm
+      position: {x: 0.16584788, y: -0.120205306, z: 0.09692017}
+      rotation: {x: -0.000000029802317, y: -0.00000003445894, z: 0.000000037252907, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandThumb1
+      parentName: Necromancer_Ctrl_RightHand
+      position: {x: 0.005319023, y: -0.012035751, z: 0.058394022}
+      rotation: {x: 0.00000002258457, y: -1.04083425e-17, z: -8.326673e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandThumb2
+      parentName: Necromancer_Ctrl_RightHandThumb1
+      position: {x: -0.008570175, y: -0.04534683, z: 0.058500536}
+      rotation: {x: 5.551115e-17, y: 3.274081e-33, z: 5.89806e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandThumb3
+      parentName: Necromancer_Ctrl_RightHandThumb2
+      position: {x: 0.0047294614, y: -0.0687725, z: 0.024507608}
+      rotation: {x: -1.1842202e-16, y: 0.000000011837985, z: 0.000000011175873, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandThumb4
+      parentName: Necromancer_Ctrl_RightHandThumb3
+      position: {x: 0.0055582426, y: -0.044238586, z: 0.011482716}
+      rotation: {x: -2.7755576e-17, y: -1.110223e-16, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandIndex1
+      parentName: Necromancer_Ctrl_RightHand
+      position: {x: 0.0993349, y: -0.09109123, z: 0.10845236}
+      rotation: {x: 0.000000037252892, y: 0.00000010430813, z: 0.000000026077027, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandIndex2
+      parentName: Necromancer_Ctrl_RightHandIndex1
+      position: {x: 0.00796257, y: -0.03809578, z: 0.030466957}
+      rotation: {x: 8.326674e-17, y: -0.000000035201076, z: 3.0878078e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandIndex3
+      parentName: Necromancer_Ctrl_RightHandIndex2
+      position: {x: 0.0013366699, y: -0.026221465, z: 0.019882735}
+      rotation: {x: 2.7755576e-17, y: -1.07552856e-16, z: 3.400058e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandIndex4
+      parentName: Necromancer_Ctrl_RightHandIndex3
+      position: {x: 0.0052738953, y: -0.04439743, z: 0.02710455}
+      rotation: {x: 2.7755576e-17, y: -1.3877788e-17, z: 9.020562e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandMiddle1
+      parentName: Necromancer_Ctrl_RightHand
+      position: {x: 0.09551189, y: -0.11574463, z: 0.085237704}
+      rotation: {x: 1.8583224e-16, y: 0.000000011466908, z: -0.000000018626451, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandMiddle2
+      parentName: Necromancer_Ctrl_RightHandMiddle1
+      position: {x: -0.0006622314, y: -0.02962677, z: 0.023826389}
+      rotation: {x: -1.110223e-16, y: -0.000000014350007, z: -2.2551407e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandMiddle3
+      parentName: Necromancer_Ctrl_RightHandMiddle2
+      position: {x: 0.0022805785, y: -0.031169662, z: 0.021562109}
+      rotation: {x: -1.110223e-16, y: 1.38777845e-17, z: 0.000000029802326, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandMiddle4
+      parentName: Necromancer_Ctrl_RightHandMiddle3
+      position: {x: -0.017300261, y: -0.047943495, z: 0.03666542}
+      rotation: {x: -1.3877788e-16, y: 6.938894e-17, z: -0.000000014901165, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandRing1
+      parentName: Necromancer_Ctrl_RightHand
+      position: {x: 0.07623188, y: -0.12360672, z: 0.056770876}
+      rotation: {x: 0.000000029802319, y: 0.000000014435505, z: -0.00000002235175, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandRing2
+      parentName: Necromancer_Ctrl_RightHandRing1
+      position: {x: -0.00755249, y: -0.03312416, z: 0.018670168}
+      rotation: {x: -8.326673e-17, y: -1.5265567e-16, z: 2.2551405e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandRing3
+      parentName: Necromancer_Ctrl_RightHandRing2
+      position: {x: -0.005231972, y: -0.034430847, z: 0.02242424}
+      rotation: {x: -8.326673e-17, y: 9.7144515e-17, z: -0.00000001117587, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandRing4
+      parentName: Necromancer_Ctrl_RightHandRing3
+      position: {x: -0.017977027, y: -0.046446152, z: 0.035116434}
+      rotation: {x: 2.0125968e-32, y: -1.5265567e-16, z: 1.3183898e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandPinky1
+      parentName: Necromancer_Ctrl_RightHand
+      position: {x: 0.06347862, y: -0.12557006, z: 0.028828382}
+      rotation: {x: -0.000000020699307, y: 0.0000000058484515, z: -0.000000033764977, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandPinky2
+      parentName: Necromancer_Ctrl_RightHandPinky1
+      position: {x: -0.0067456053, y: -0.023874588, z: 0.016176432}
+      rotation: {x: -1.110223e-16, y: -0.00000001629816, z: 1.9428903e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandPinky3
+      parentName: Necromancer_Ctrl_RightHandPinky2
+      position: {x: -0.012596893, y: -0.022900848, z: 0.018009406}
+      rotation: {x: -8.326673e-17, y: 2.7755576e-17, z: 2.0816682e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_RightHandPinky4
+      parentName: Necromancer_Ctrl_RightHandPinky3
+      position: {x: -0.023375968, y: -0.02686905, z: 0.025388192}
+      rotation: {x: 8.326673e-17, y: -5.551115e-17, z: 6.938894e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_Neck
+      parentName: Necromancer_Ctrl_Spine2
+      position: {x: -0.01274492, y: 0.14815094, z: -0.028985774}
+      rotation: {x: 2.0792287e-16, y: 9.150666e-17, z: -0.000000029802322, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necromancer_Ctrl_Head
+      parentName: Necromancer_Ctrl_Neck
+      position: {x: 0.009326032, y: 0.21237487, z: 0.03800136}
+      rotation: {x: 5.302165e-16, y: 0.000000017984803, z: -0.000000014959372, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle1
+      parentName: TestModel(Clone)
+      position: {x: 0.576348, y: 0.021704474, z: -0.25418818}
+      rotation: {x: -0.0066214507, y: 0.0023069049, z: -0.090167, w: 0.995902}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle2
+      parentName: TestModel(Clone)
+      position: {x: -0.53085536, y: -0.00933913, z: -0.37189686}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle4
+      parentName: TestModel(Clone)
+      position: {x: -0.06833028, y: 0.94243, z: 0.14047185}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle5
+      parentName: TestModel(Clone)
+      position: {x: 0.07057849, y: 0.95747054, z: 0.09911902}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

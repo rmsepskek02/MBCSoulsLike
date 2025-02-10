@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 402441039b9a66c4d8c99779834c4751
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - pt1Particle: {fileID: 6464640527883170400, guid: d81f8b56f662c254bb2cd67a1c16c15c, type: 3}
+  - pt1SpawnPoint: {instanceID: 0}
+  - pt1AttackRange: {instanceID: 0}
+  - pt2Particle: {instanceID: 0}
+  - pt2SpawnPoint: {instanceID: 0}
+  - pt2AttackRange: {instanceID: 0}
+  - pt3Particle: {instanceID: 0}
+  - pt3SpawnPoint: {instanceID: 0}
+  - pt3AttackRange: {instanceID: 0}
+  - pt4Particle: {instanceID: 0}
+  - pt4SpawnPoint: {instanceID: 0}
+  - pt4AttackRange: {instanceID: 0}
+  - pt5Particle: {instanceID: 0}
+  - pt5SpawnPoint: {instanceID: 0}
+  - pt5AttackRange: {instanceID: 0}
+  - alien: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
