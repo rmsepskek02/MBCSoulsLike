@@ -1,0 +1,58 @@
+{
+    "achievementSaveData": [
+        {
+            "number": 0,
+            "currentAmount": 0.0,
+            "isUnlock": true,
+            "isClear": false
+        },
+        {
+            "number": 1,
+            "currentAmount": 0.0,
+            "isUnlock": false,
+            "isClear": false
+        },
+        {
+            "number": 2,
+            "currentAmount": 0.0,
+            "isUnlock": false,
+            "isClear": false
+        },
+        {
+            "number": 3,
+            "currentAmount": 0.0,
+            "isUnlock": true,
+            "isClear": false
+        },
+        {
+            "number": 4,
+            "currentAmount": 0.0,
+            "isUnlock": false,
+            "isClear": false
+        },
+        {
+            "number": 5,
+            "currentAmount": 0.0,
+            "isUnlock": false,
+            "isClear": false
+        },
+        {
+            "number": 6,
+            "currentAmount": 0.0,
+            "isUnlock": true,
+            "isClear": false
+        },
+        {
+            "number": 7,
+            "currentAmount": 0.0,
+            "isUnlock": false,
+            "isClear": false
+        },
+        {
+            "number": 8,
+            "currentAmount": 0.0,
+            "isUnlock": false,
+            "isClear": false
+        }
+    ]
+}
